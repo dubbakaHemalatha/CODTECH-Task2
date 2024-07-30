@@ -53,7 +53,7 @@ class LMS:
             return self.add_books()
         elif len(new_books) > 25:
             print("Books title length is too long.Title should be 20 Char")
-            return self.Add_books()
+            return self.add_books()
         else:
             with open(self.list_of_books,"a") as bk:
                 bk.writelines(f"{new_books}\n")
