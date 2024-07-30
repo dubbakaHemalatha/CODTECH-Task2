@@ -1,8 +1,13 @@
 **Name:** D.Hemalatha
+
 **Company:** CODTECH IT SOLUTIONS
+
 **ID:** CT08DS3688
+
 **Domain:** PYTHON PROGRAMMING
+
 **Duration:** JULY TO AUGUST
+
 **Mentor:** N.Santhosh Kumar
 
 
